@@ -101,6 +101,7 @@ body {
     background-color: #374151;
     border: 8px solid #111827;
     margin-top: 40px;
+    margin-left: -10px;
     z-index: 1;
     grid-area: content;
 }
@@ -109,6 +110,7 @@ body {
     height: 480px;
     border: 8px solid #111827;
     margin-left: 40px;
+    margin-left: -10px;
     z-index: 2;
     grid-area: content;
 }
